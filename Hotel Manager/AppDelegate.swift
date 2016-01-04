@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Hotel Manager
 //
-//  Created by Greg Salvesen on 1/4/16.
-//  Copyright © 2016 Dark Vault Studios. All rights reserved.
+//  Created by Greg Salvesen on 12/29/15.
+//  Copyright © 2015 Dark Vault Studios. All rights reserved.
 //
 
 import UIKit
