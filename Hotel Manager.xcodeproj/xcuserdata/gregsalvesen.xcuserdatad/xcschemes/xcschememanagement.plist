@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Hotel Manager.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>AC01BEA21C3B086E00A5B104</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AC01BEBA1C3B086E00A5B104</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AC01BEC51C3B086E00A5B104</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
